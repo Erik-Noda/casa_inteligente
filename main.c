@@ -1,6 +1,6 @@
 include <stdio.h>
 
  int main(){
-     printf("olaa");
+     printf("ola");
      return 0;
  }
